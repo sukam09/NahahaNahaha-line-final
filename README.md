@@ -1,4 +1,4 @@
-# NahahaNahaha-line-final
+# line-final
 ## 자료구조
 - 우선순위 큐에 대해서 설명해주세요.
 - 이진 트리와 이진 탐색 트리에 대해서 설명해주세요.
